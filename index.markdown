@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Peter's Corner
+title: Sparkhoom' Blog
 ---
 
-Hi there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
-dedicated to providing information about [me](resume.html) and [what I do](/work).
-
-I am a screencastr at <http://happycasts.net>.
-
+Hi there, I am Sparkhoom, right now I just doing a start-up company with my college friends.
+This Site is basically my learning and thinking review blog. Hope you will enjoy it.
+Thank you.
 
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
@@ -20,15 +18,12 @@ I am a screencastr at <http://happycasts.net>.
 
 <ul>
 
-<li><a href="http://c2.com/cgi/wiki?PeterWang">Wikiwikiweb</a></li>
-
-<li><a href="http://github.com/happypeter/">Github</a></li>
+<li><a href="http://github.com/sparkhoom/">Github</a></li>
 
 </ul>
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
-happypeter1983@gmail.com
+176072396@qq.com
 </blockquote>
 
-[oss]:http://en.wikipedia.org/wiki/Open_source
