@@ -6,10 +6,11 @@ title: Near the end of year
 It is only 60 days left to new year.
 Time really flies!
 
-I have come back home and join the start-up company for almost half of year. 
-I learn a lot from the experience trying to build a businesss with my college friends.
+I have come back home and the done start-up business work for almost half of year. 
+I learn a lot from trying to build a businesss with my college friends. It  is totally different between 
+earning money on your own and just getting paid from other company.
 
-Right now, we only focus on building the most professoinal Win8 forum in China, providing the 
+Right now, [we](<http://www.weipaifan.com>) only focus on building the most professoinal Win8 forum in China, providing the 
 sophisticating Win8 tablet usage essay to our readers.
 
 ##My two goal to the end of the year
