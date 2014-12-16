@@ -3,7 +3,7 @@ layout: default
 title: Sparkhoom' Blog
 ---
 
-Hi there, I am Sparkhoom, right now I just doing a start-up company with my college friends.
+Hi there, I am [Sparkhoom](resume.html), right now I just doing a start-up company with my college friends.
 This Site is basically my learning and thinking review blog. Hope you will enjoy it.
 Thank you.
 
