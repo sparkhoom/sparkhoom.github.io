@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Peter 是谁？
+title: Who is Sparkhoom
 ---
-<img src="./images/peter.jpg" alt="Peter Face" />
+<img src="./images/sparkhoom.jpg" alt="Sparkhoom's Face" />
 
-大家好，我叫王广忠，不过一般朋友们都叫我 Peter，网上我一般叫 happypeter，比如我的 github 页面是 <http://github.com/happypeter> 我的 gmail 账号是 happypeter1983@gmail.com。我还有很多文章放在 <http://happypeter.github.io/>，这个算是我的博客站点吧。
+<!-- 大家好，我叫王广忠，不过一般朋友们都叫我 Peter，网上我一般叫 happypeter，比如我的 github 页面是 <http://github.com/happypeter> 我的 gmail 账号是 happypeter1983@gmail.com。我还有很多文章放在 <http://happypeter.github.io/>，这个算是我的博客站点吧。
 
 这里的这些内容我理解是“交友简历”，我还有一份[工作简历](http://hireus.haoqicat.com/happypeter.html)，不过最近发现工作性的冷冰冰的简历是越来越没用了，反正每次我接触一个新朋友，我最想知道的都是一些八卦类的东西，你老家是哪里的，你干过什么有意思的事，有没有靓照可以分享？
 
@@ -18,4 +18,4 @@ title: Peter 是谁？
 
 不过，以后我也从小时候的恐怖之中走出来了，我会编程，走到哪里都可以凭自己的力气吃饭，没什么好怕的，所以以后见到不顺眼的领导，见一个骂一个。第一份工作是在 Asianux 做系统升级器，主要是 C++，后来在 akaedu 做 Linux 讲师，那时候就觉得如果你是个喜欢知识的人，同时有强劲的虚荣心，想和朋友们分享所有你学到的东西，那么写网站开发类的代码是最合适的，所以就在我当讲师的那年，也就是2010年的时候，我开始学 Ruby On Rails。目前，我弄 happycasts.net 和 haoqicat.com ，如果我不写代码的时候，就是录视频，不录视频的时候就是在写文章骂领导，生活很快乐。
 
-好，先写这么多，瞎突突，目的就是让看到这些文字的人可以快速的决定喜欢我还是讨厌我，喜欢我的人，快点联系我啊，咱们交个朋友。
+好，先写这么多，瞎突突，目的就是让看到这些文字的人可以快速的决定喜欢我还是讨厌我，喜欢我的人，快点联系我啊，咱们交个朋友。 -->
