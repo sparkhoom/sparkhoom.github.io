@@ -13,7 +13,8 @@ Right now, we only focus on building the most professoinal Win8 forum in China, 
 sophisticating Win8 tablet usage essay to our readers.
 
 ##My two goal to the end of the year
-making surface pro3 video about game testing and software recommendation
+making surface pro3 video about game testing and software recommendation by learning vegas video editting software.
+And I need to practice how to speak in the video and make introduction or explanation to users.
 
 ###1.improve our forum flow read ips up to 2000.
 
