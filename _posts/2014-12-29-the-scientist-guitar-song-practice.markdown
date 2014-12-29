@@ -3,7 +3,7 @@ layout: post
 title: The Scientist Guitar Song Practices
 ---
 
-In this post, I record my guitar journey practicing the coldplay's song called <The Scientist Guitar>.
+In this post, I record my guitar journey practicing the coldplay's song called The Scientist Guitar.
 
 I pretty love this song, which will express my feelings and love to someone who has gone.
 
